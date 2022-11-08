@@ -1,0 +1,14 @@
+{
+  "name": "livredecompte",
+  "version": "1.0.0",
+  "description": "Livre de compte, gestion de budget",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Matthias Buczek",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^21.2.2"
+  }
+}
